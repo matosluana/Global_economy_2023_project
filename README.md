@@ -1,5 +1,5 @@
 # Final project: Global Macroeconomic Outlook
-## Ironhack Data Analytics Bootcamp
+## Ironhack Data Analytics Bootcamp (November 2022)
 
 **Research question:** Are we about to enter the next big world economical crisis?
 
